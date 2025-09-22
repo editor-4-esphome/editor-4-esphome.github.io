@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://editor-4-esphome.github.io/sitemap_2.xml
