@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://editor-4-esphome.github.io/sitemap.xml
+Sitemap: https://editor-4-esphome.github.io/sitemap.txt

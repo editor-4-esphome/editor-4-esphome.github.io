@@ -1,0 +1,14 @@
+https://editor-4-esphome.github.io/category/code-samples/
+https://editor-4-esphome.github.io/category/first-project/
+https://editor-4-esphome.github.io/category/getting-started/
+https://editor-4-esphome.github.io/category/writing-esphome-configs/
+https://editor-4-esphome.github.io/code-samples/room-sensor/
+https://editor-4-esphome.github.io/code-samples/shift-registers/
+https://editor-4-esphome.github.io/getting-started/install-HA-addon/
+https://editor-4-esphome.github.io/getting-started/install-standalone/
+https://editor-4-esphome.github.io/getting-started/tutorials/flowers/
+https://editor-4-esphome.github.io/language/core-concepts/
+https://editor-4-esphome.github.io/language/disable-file/
+https://editor-4-esphome.github.io/language/eta/
+https://editor-4-esphome.github.io/language/folder-structure/
+https://editor-4-esphome.github.io/
